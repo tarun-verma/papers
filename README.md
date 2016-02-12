@@ -13,7 +13,7 @@ List of academic papers I'm either reading or planning on doing so.
 - [*x86-64 Buffer Overflow Exploits & the Borrowed Code Chunks Exploitation Technique*](http://users.suse.com/~krahmer/no-nx.pdf), S. Krahmer
 
 ### Casual/self:
-- [*Intel x86 considered harmful*](http://blog.invisiblethings.org/papers/2015/x86_harmful.pdf), J. Rutkowska.
+- [*Intel x86 considered harmful*](http://blog.invisiblethings.org/papers/2015/x86_harmful.pdf), J. Rutkowska
 - [*Abusing Windows Management
 Instrumentation (WMI) to Build a Persistent,
 Asyncronous, and Fileless Backdoor*](https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf), M. Graeber (BlackHat '15)
@@ -22,10 +22,10 @@ Asyncronous, and Fileless Backdoor*](https://www.blackhat.com/docs/us-15/materia
 ## To Read
 - [PoC||GTFO series](https://www.alchemistowl.org/pocorgtfo/).
 - [*What You Submit is Who You Are: A Multi-Modal
-Approach for Deanonymizing Scientific Publications*](http://nebelwelt.net/publications/files/14TIFS.pdf), lots of authors.
+Approach for Deanonymizing Scientific Publications*](http://nebelwelt.net/publications/files/14TIFS.pdf), Various
 - [*Control-Flow Bending:
-On the Effectiveness of Control-Flow Integrity*](http://nebelwelt.net/publications/files/15SEC.pdf), lots of authors.
-- [*CAIN: Silently Breaking ASLR in the Cloud*](http://nebelwelt.net/publications/files/15WOOT.pdf), same authors as above.
+On the Effectiveness of Control-Flow Integrity*](http://nebelwelt.net/publications/files/15SEC.pdf), Various
+- [*CAIN: Silently Breaking ASLR in the Cloud*](http://nebelwelt.net/publications/files/15WOOT.pdf), Various
 - [*Hot-Patching a Web Server: a Case Study of ASAP
 Code Repair*](http://nebelwelt.net/publications/files/13PST.pdf), M. Payer, T. Gross
-- [*String Oriented Programming: When ASLR is not Enough*](http://nebelwelt.net/publications/files/13PPREW.pdf), same authors as above.
+- [*String Oriented Programming: When ASLR is not Enough*](http://nebelwelt.net/publications/files/13PPREW.pdf), same authors as above
