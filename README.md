@@ -1,6 +1,4 @@
 # Papers
-List of academic papers I'm either reading or planning on doing so.
-
 ## Reading
 ### Formal undertaking (supervised study under [Dr. Rahul Purandare](https://www.iiitd.edu.in/~purandare/)):
 - [*Smashing the stack for fun and profit*](http://insecure.org/stf/smashstack.html), Aleph One
