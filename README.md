@@ -1,6 +1,6 @@
 # Papers
 ### Reading
-#### Formal undertaking (supervised study under [Dr. Rahul Purandare](https://www.iiitd.edu.in/~purandare/)):
+#### Formal undertakings:
 - [*Smashing the stack for fun and profit*](http://insecure.org/stf/smashstack.html), Aleph One
 - [*On the Effectiveness of Address-Space Randomization*](https://web.stanford.edu/~blp/papers/asrandom.pdf
 ), Various
@@ -9,6 +9,7 @@
 - [*Advances in Format String Exploitation*](http://hamsa.cs.northwestern.edu/media/readings/advanced_format_strings.pdf), gera & riq
 - [*Reverse Stack Execution*](http://babaks.com/files/TechReport07-07.pdf), Various 
 - [*x86-64 Buffer Overflow Exploits & the Borrowed Code Chunks Exploitation Technique*](http://users.suse.com/~krahmer/no-nx.pdf), S. Krahmer
+- [*Onix: A Distributed Control Platform for Large-scale Production Networks*](http://yuba.stanford.edu/~casado/onix-osdi.pdf), Various (USENIX 2010)
 
 #### Casual/self:
 - [*Intel x86 considered harmful*](http://blog.invisiblethings.org/papers/2015/x86_harmful.pdf), J. Rutkowska
