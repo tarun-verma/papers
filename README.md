@@ -28,3 +28,4 @@ On the Effectiveness of Control-Flow Integrity*](http://nebelwelt.net/publicatio
 - [*Hot-Patching a Web Server: a Case Study of ASAP
 Code Repair*](http://nebelwelt.net/publications/files/13PST.pdf), M. Payer, T. Gross
 - [*String Oriented Programming: When ASLR is not Enough*](http://nebelwelt.net/publications/files/13PPREW.pdf), same authors as above
+- [*Analyzing HTTPS Encrypted Traffic to Identify User's Operating System, Browser and Application*](http://arxiv.org/ftp/arxiv/papers/1603/1603.04865.pdf), Various
