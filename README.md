@@ -5,7 +5,7 @@
 - [~~*On the Effectiveness of Address-Space Randomization*~~](https://web.stanford.edu/~blp/papers/asrandom.pdf
 ), Various
 - [~~*The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)*~~](http://cseweb.ucsd.edu/~hovav/dist/geometry.pdf), H. Shacham 
-- [*Basic Integer Overflows*](http://phrack.org/issues/60/10.html#article), blexim 
+- [~~*Basic Integer Overflows*~~](http://phrack.org/issues/60/10.html#article), blexim 
 - [*Advances in Format String Exploitation*](http://hamsa.cs.northwestern.edu/media/readings/advanced_format_strings.pdf), gera & riq
 - [*Reverse Stack Execution*](http://babaks.com/files/TechReport07-07.pdf), Various 
 - [*x86-64 Buffer Overflow Exploits & the Borrowed Code Chunks Exploitation Technique*](http://users.suse.com/~krahmer/no-nx.pdf), S. Krahmer
