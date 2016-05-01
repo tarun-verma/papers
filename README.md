@@ -6,11 +6,11 @@
 ), Various
 - [~~*The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)*~~](http://cseweb.ucsd.edu/~hovav/dist/geometry.pdf), H. Shacham 
 - [~~*Basic Integer Overflows*~~](http://phrack.org/issues/60/10.html#article), blexim 
-- [~~*Advances in Format String Exploitation*~~](http://hamsa.cs.northwestern.edu/media/readings/advanced_format_strings.pdf), gera & riq
 - [~~*Reverse Stack Execution*~~](http://babaks.com/files/TechReport07-07.pdf), Various 
-- [~~*Onix: A Distributed Control Platform for Large-scale Production Networks*~~](http://yuba.stanford.edu/~casado/onix-osdi.pdf), Various (USENIX 2010)
 
 #### Casual/self:
+- [~~*Onix: A Distributed Control Platform for Large-scale Production Networks*~~](http://yuba.stanford.edu/~casado/onix-osdi.pdf), Various (USENIX 2010)
+- [~~*Advances in Format String Exploitation*~~](http://hamsa.cs.northwestern.edu/media/readings/advanced_format_strings.pdf), gera & riq
 - [*Intel x86 considered harmful*](http://blog.invisiblethings.org/papers/2015/x86_harmful.pdf), J. Rutkowska
 - [*Abusing Windows Management
 Instrumentation (WMI) to Build a Persistent,
