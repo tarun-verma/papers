@@ -1,6 +1,6 @@
 # Papers
 ### Reading
-#### Formal undertakings:
+#### ~~Formal undertakings:~~
 - [~~*Smashing the stack for fun and profit*~~](http://insecure.org/stf/smashstack.html), Aleph One
 - [~~*On the Effectiveness of Address-Space Randomization*~~](https://web.stanford.edu/~blp/papers/asrandom.pdf
 ), Various
@@ -16,11 +16,11 @@
 Instrumentation (WMI) to Build a Persistent,
 Asyncronous, and Fileless Backdoor*](https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf), M. Graeber (BlackHat '15)
 - [*Ah! Universal Android Rooting is Back!*](https://www.blackhat.com/docs/us-15/materials/us-15-Xu-Ah-Universal-Android-Rooting-Is-Back-wp.pdf), W. Xu (BlackHat '15)
-
-### To Read
 - [PoC||GTFO series](https://www.alchemistowl.org/pocorgtfo/).
 - [*What You Submit is Who You Are: A Multi-Modal
 Approach for Deanonymizing Scientific Publications*](http://nebelwelt.net/publications/files/14TIFS.pdf), Various
+
+### To Read
 - [*Control-Flow Bending:
 On the Effectiveness of Control-Flow Integrity*](http://nebelwelt.net/publications/files/15SEC.pdf), Various
 - [*CAIN: Silently Breaking ASLR in the Cloud*](http://nebelwelt.net/publications/files/15WOOT.pdf), Various
